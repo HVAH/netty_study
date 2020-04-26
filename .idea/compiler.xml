@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itstack-naive-chat-ui-04" />
+        <module name="itstack-naive-chat-ui-03" />
+        <module name="itstack-naive-chat-ui-02" />
+        <module name="itstack-naive-chat-ui-01" />
+        <module name="itstack-naive-chat-server-ddd" />
+        <module name="itstack-naive-chat-ui-10" />
+        <module name="itstack-naive-chat-client" />
+        <module name="itstack-naive-chat-server-05" />
+        <module name="itstack-naive-chat-server-04" />
+        <module name="itstack-naive-chat-server-03" />
+        <module name="itstack-naive-chat-server-02" />
+        <module name="itstack-naive-chat-server-01" />
+        <module name="itstack-naive-chat-server-agreement" />
+        <module name="itstack-naive-chat-ui" />
+        <module name="itstack-naive-chat-client-01" />
+        <module name="itstack-naive-chat-ui-09" />
+        <module name="itstack-naive-chat-ui-08" />
+        <module name="itstack-naive-chat-ui-07" />
+        <module name="itstack-naive-chat-ui-06" />
+        <module name="itstack-naive-chat-ui-05" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="netty_base_study" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="itstack-naive-chat-client-01" options="-parameters" />
+      <module name="itstack-naive-chat-server-01" options="-parameters" />
+      <module name="itstack-naive-chat-server-02" options="-parameters" />
+      <module name="itstack-naive-chat-server-03" options="-parameters" />
+      <module name="itstack-naive-chat-server-04" options="-parameters" />
+      <module name="itstack-naive-chat-server-05" options="-parameters" />
+      <module name="itstack-naive-chat-server-agreement" options="-parameters" />
+      <module name="itstack-naive-chat-server-ddd" options="-parameters" />
+      <module name="itstack-naive-chat-ui-01" options="-parameters" />
+      <module name="itstack-naive-chat-ui-02" options="-parameters" />
+      <module name="itstack-naive-chat-ui-03" options="-parameters" />
+      <module name="itstack-naive-chat-ui-04" options="-parameters" />
+      <module name="itstack-naive-chat-ui-05" options="-parameters" />
+      <module name="itstack-naive-chat-ui-06" options="-parameters" />
+      <module name="itstack-naive-chat-ui-07" options="-parameters" />
+      <module name="itstack-naive-chat-ui-08" options="-parameters" />
+      <module name="itstack-naive-chat-ui-09" options="-parameters" />
+      <module name="itstack-naive-chat-ui-10" options="-parameters" />
+    </option>
+  </component>
+</project>

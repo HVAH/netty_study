@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-client-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-server-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-server-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-server-02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-server-03/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-server-03/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-server-04/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-server-05/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-03/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-03/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-04/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-04/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-05/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-05/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-06/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-06/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-07/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-07/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-08/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-08/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-09/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-09/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-10/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-10/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itstack-naive-chat-server/itstack-naive-chat-server-agreement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itstack-naive-chat-server/itstack-naive-chat-server-ddd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itstack-naive-chat-ui/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
