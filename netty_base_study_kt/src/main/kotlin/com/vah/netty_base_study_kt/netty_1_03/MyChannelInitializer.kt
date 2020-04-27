@@ -12,7 +12,7 @@ import java.nio.charset.Charset
  **/
 class MyChannelInitializer: ChannelInitializer<SocketChannel>() {
     override fun initChannel(ch: SocketChannel) {
-        ch.pipeline().addLast(LineBasedFrameDecoder(1024))
+        //ch.pipeline().addLast(LineBasedFrameDecoder(1024))
         ch.pipeline().addLast(StringDecoder(Charset.forName("GBK")))
         ch.pipeline().addLast(MyServerHandler())
     }
