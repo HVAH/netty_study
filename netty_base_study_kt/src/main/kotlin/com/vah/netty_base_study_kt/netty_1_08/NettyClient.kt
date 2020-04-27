@@ -1,4 +1,4 @@
-package com.vah.netty_base_study_kt.client;
+package com.vah.netty_base_study_kt.netty_1_08;
 
 import io.netty.bootstrap.Bootstrap
 import io.netty.channel.ChannelOption
@@ -13,13 +13,13 @@ class NettyClient {
     fun connect(inetHost: String, inetPort: Int) {
         val eventLoopGroup = NioEventLoopGroup()
         try {
-            val bootstrap = Bootstrap()
-            bootstrap.group(eventLoopGroup)
+            val b = Bootstrap()
+            b.group(eventLoopGroup)
                 .channel(NioSocketChannel::class.java)
                 .option(ChannelOption.AUTO_READ, true)
                 .handler(MyChannelInitializer())
-            val future = bootstrap.connect(inetHost, inetPort).sync()
-            println("vah-demo-netty client start done")
+            val future = b.connect(inetHost, inetPort).sync()
+            println("vah-demo-netty client 107 start done")
             future.channel().closeFuture().sync()
         }catch (e: InterruptedException) {
             e.printStackTrace();
@@ -31,5 +31,5 @@ class NettyClient {
 }
 
 fun main() {
-    NettyClient().connect("127.0.0.1", 7370)
+    NettyClient().connect("127.0.0.1", 7328)
 }
